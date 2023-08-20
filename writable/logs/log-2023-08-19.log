@@ -1,0 +1,49 @@
+CRITICAL - 2023-08-19 14:00:44 --> Class "App\Models\UsersModel" not found
+in APPPATH\Controllers\Login.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\project-root\\public\\index.php')
+CRITICAL - 2023-08-19 14:00:53 --> Class "App\Models\UsersModel" not found
+in APPPATH\Controllers\Login.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\project-root\\public\\index.php')
+CRITICAL - 2023-08-19 14:01:12 --> Class "App\Models\UsersModel" not found
+in APPPATH\Controllers\Login.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\project-root\\public\\index.php')
+CRITICAL - 2023-08-19 14:07:28 --> Class "App\Models\UsersModel" not found
+in APPPATH\Controllers\Login.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\project-root\\public\\index.php')
+CRITICAL - 2023-08-19 14:36:17 --> Class "App\Models\UsersModel" not found
+in APPPATH\Controllers\Login.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\project-root\\public\\index.php')
+CRITICAL - 2023-08-19 14:53:10 --> Class "App\Models\UsersModel" not found
+in APPPATH\Controllers\Login.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\project-root\\public\\index.php')
+CRITICAL - 2023-08-19 15:01:33 --> Class "App\Models\UsersModel" not found
+in APPPATH\Controllers\Login.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\project-root\\public\\index.php')
